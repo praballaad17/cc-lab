@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.signup {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.signup__input {
+  display: flex;
+
+}
+.signup__input > input {
+  
+}
+td, th {
+  border: 1px solid balck!important;
+  padding: 10px;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
